@@ -1,8 +1,9 @@
-# Práctica 2: Introducción al desarrollo. Ponlo en práctica.
+# Entornos de desarrollo. Unidad 2
+## Práctica 1: Evaluación de IDEs.
 
 Apoyate en los siguientes recursos para realizar la práctica:
 
-[Descripción de la práctica](https://revilofe.github.io/section3/u01/practica/EDES-U1.-Practica011/)
+[Evaluación. Uso y comparativas de IDEs](https://revilofe.github.io/section3/u02/practica/EDES-U2.-Practica002/)
 
 
 ---
